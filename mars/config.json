@@ -1,0 +1,7 @@
+{
+    "lyapunov":{
+        "discretization_constant":0.1,
+        "dtype": "float"
+    }
+    
+}
